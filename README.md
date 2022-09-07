@@ -3,20 +3,8 @@
          height="45"
          width="45" /> I'm Ibtesam!</h1>
 <h3 align="center">I'm a Mobile app + Web App, Developer, and Teacher!!</h3>	 
-	 
-## 🌐 Socials
-<br/>
-<a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="mailto:ztalha6@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-
-<br/>
-<br/>
-
-# 💫 About Me :
+<br>
+<h2>💫 About Me : </h2>
 <br/>
 
 <div>
@@ -31,7 +19,19 @@
 </ul>
 </div>
 
-<br />
+<br>
+<h2>🌐 Socials</h2>
+<br/>
+<a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="mailto:ztalha6@gmail.com">
+  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+
+<br/>
+<br/>
+
 
 
 <div align="center">
