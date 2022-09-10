@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="mailto:ztalha6@gmail.com">
+<a href="mailto:getibtesam@gmail.com">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
