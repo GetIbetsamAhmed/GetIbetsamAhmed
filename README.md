@@ -11,7 +11,7 @@
   <ul>
     <li>👯 I'm Looking to Collaborate on  <b>Flutter , Angular And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer and believe in team management</li>
-    <li>🌱 I’m currently learning <b>Flutter, Angular<b></li>
+    <li>🌱 I’m currently learning <b>Flutter, Angular, Ionic<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
     <!-- <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li> -->
     <li>😄 Pronouns: **He/Him** 💁‍</li>
