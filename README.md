@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Ibtesam Ahmed!</h1>
+         width="45" /> I'm Ibtesam!</h1>
 <h3 align="center">I'm a Mobile app + Web App, Developer, and Teacher!!</h3>	 
 <br>
 <h2>💫 About Me : </h2>
