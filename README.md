@@ -23,10 +23,10 @@
 <h2>🌐 Socials</h2>
 <br/>
 <a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+  <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="mailto:getibtesam@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
 <br/>
