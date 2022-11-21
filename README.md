@@ -4,7 +4,7 @@
          width="45" /> I am Ibtesam Ahmed</h1>
 <h3 align="center">I'm a Mobile app + Web App, Developer</h3>	 
 <br>
-<h2>💫 About Me :</h2>
+<h2>💫 About Me : </h2>
 <br/>
 
 <div>
