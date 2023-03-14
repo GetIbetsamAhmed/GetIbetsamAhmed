@@ -15,7 +15,7 @@
     <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
     <!-- <li>💬 Ask me anything about <a href="https://discord.com/users/999634986481225768">here</a>! I'm always open to help!</li> -->
     <li>😄 Pronouns: **He/Him** 💁‍</li>
-    <li>⚡ Fun fact: Sometimes I got disapear for traveling! : owl :</li>
+    <li>⚡ Fun fact: Sometimes I got disapear for traveling! : owl : </li>
 </ul>
 </div>
 
