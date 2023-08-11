@@ -9,7 +9,7 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Flutter , Angular And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on  <b> Flutter , Angular And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer and believe in team management</li>
     <li>🌱 I’m currently learning <b>Flutter, Angular, Ionic<b></li>
     <li>🥅 2022 Goals: Contribute more to Open Source projects and Content Creation</li>
